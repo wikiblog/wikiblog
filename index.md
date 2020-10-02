@@ -1,6 +1,6 @@
 # WikiBlog
 ---
-title: ""
+title: "Területek"
 tags: ""
 ---
 
