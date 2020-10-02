@@ -1,3 +1,4 @@
+# WikiBlog
 ---
 title: ""
 tags: ""
